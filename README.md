@@ -2,7 +2,7 @@
 Ce projet est un CV en ligne conçu pour être responsive, offrant une expérience utilisateur optimale sur une gamme de périphériques, des ordinateurs de bureau aux smartphones.
 
 **Aperçu**
-![Capture d'écran du CV Responsif]()
+![Capture d'écran du CV Responsif](./cv_responsive.png)
 
 
 **Fonctionnalités**
