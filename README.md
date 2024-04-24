@@ -1,4 +1,6 @@
 # CV Responsif
+# Live vision :https://ogtayaliyev.github.io/CV-Responsif
+
 Ce projet est un CV en ligne conçu pour être responsive, offrant une expérience utilisateur optimale sur une gamme de périphériques, des ordinateurs de bureau aux smartphones.
 
 **Aperçu**
@@ -15,7 +17,7 @@ Utilisation
 Clonage du Référentiel : Clonez ce référentiel sur votre machine locale en utilisant la commande suivante :
 bash
 
-**git clone https://github.com/votre_nom/cv-responsif.git**
+**[git clone https://github.com/votre_nom/cv-responsif.git](https://ogtayaliyev.github.io/CV-Responsif/)**
 
 
 Personnalisation : Remplacez les informations de démo par vos propres détails, y compris votre expérience, votre éducation, vos compétences et vos projets.
